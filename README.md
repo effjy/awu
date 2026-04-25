@@ -102,5 +102,3 @@ sudo ./awu
 ## 💬 Final words  
 
 AWU is that **heavy‑duty, no‑nonsense wiping tool** that you hope you’ll never *actually need*, but when you do, it follows the same playbook as government defense agencies. Use it wisely, and always keep a cold backup of anything you might regret deleting 😉
-
-Let me know if you want me to change any detail – happy wiping! 🧹
