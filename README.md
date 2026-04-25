@@ -1,3 +1,11 @@
+[![NIST SP 800-88 Rev. 1](https://img.shields.io/badge/NIST_SP_800--88-Rev._1-blue?style=flat-square)](https://csrc.nist.gov/publications/detail/sp/800-88/rev-1/final)
+[![FIPS 140-3 Aligned](https://img.shields.io/badge/FIPS_140--3-Aligned-green?style=flat-square)](https://csrc.nist.gov/publications/detail/fips/140/3/final)
+[![RFC 4086 Randomness](https://img.shields.io/badge/RFC_4086-Randomness-orange?style=flat-square)](https://datatracker.ietf.org/doc/html/rfc4086)
+[![Language: C](https://img.shields.io/badge/language-C-00599C?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Compiler: GCC](https://img.shields.io/badge/compiler-GCC-9cf?style=flat-square&logo=gnu)](https://gcc.gnu.org/)
+[![Platform: Linux](https://img.shields.io/badge/platform-Linux-blue?style=flat-square&logo=linux)](https://kernel.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square)](https://opensource.org/licenses/MIT)
+
 ## 🚀 What is AWU?
 
 **awu** stands for **Axis Wiping Utility**, a serious data‑sanitization tool for people who need to *really* make sure that deleted files, free space, or even volatile memory can never be recovered.  
